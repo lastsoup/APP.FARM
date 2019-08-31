@@ -1,1 +1,458 @@
-var __encode ='sojson.com', _0xb483=["\x5F\x64\x65\x63\x6F\x64\x65","\x68\x74\x74\x70\x3A\x2F\x2F\x77\x77\x77\x2E\x73\x6F\x6A\x73\x6F\x6E\x2E\x63\x6F\x6D\x2F\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x6F\x62\x66\x75\x73\x63\x61\x74\x6F\x72\x2E\x68\x74\x6D\x6C"];(function(_0xd642x1){_0xd642x1[_0xb483[0]]= _0xb483[1]})(window);var __Ox4f9ba=["\x61\x74\x2E\x35\x6B\x35\x6D\x38\x72\x7A\x63\x34\x72\x30\x31\x74\x68\x66\x78\x35\x6B\x61\x66\x6A\x6C\x34\x65\x34\x79\x6C\x30\x78\x6E\x7A\x63\x2D\x37\x37\x62\x68\x35\x36\x6E\x78\x75\x77\x2D\x31\x39\x73\x35\x33\x77\x6E\x2D\x67\x68\x31\x73\x76\x71\x75\x71\x6B","\x63\x6F\x64\x65","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x70\x69\x2E\x77\x65\x69\x78\x69\x6E\x2E\x71\x71\x2E\x63\x6F\x6D\x2F\x73\x6E\x73\x2F\x6A\x73\x63\x6F\x64\x65\x32\x73\x65\x73\x73\x69\x6F\x6E\x3F\x61\x70\x70\x69\x64\x3D\x77\x78\x62\x62\x39\x32\x65\x63\x34\x62\x36\x36\x66\x35\x36\x35\x36\x64\x26\x73\x65\x63\x72\x65\x74\x3D\x63\x31\x35\x39\x36\x35\x36\x37\x32\x30\x62\x35\x63\x38\x37\x39\x37\x61\x30\x62\x34\x62\x36\x34\x65\x64\x30\x39\x38\x62\x36\x63\x26\x6A\x73\x5F\x63\x6F\x64\x65\x3D","\x26\x67\x72\x61\x6E\x74\x5F\x74\x79\x70\x65\x3D\x61\x75\x74\x68\x6F\x72\x69\x7A\x61\x74\x69\x6F\x6E\x5F\x63\x6F\x64\x65","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x70\x69\x2E\x77\x65\x69\x78\x69\x6E\x2E\x71\x71\x2E\x63\x6F\x6D\x2F\x63\x67\x69\x2D\x62\x69\x6E\x2F\x74\x6F\x6B\x65\x6E\x3F\x67\x72\x61\x6E\x74\x5F\x74\x79\x70\x65\x3D\x63\x6C\x69\x65\x6E\x74\x5F\x63\x72\x65\x64\x65\x6E\x74\x69\x61\x6C\x26\x61\x70\x70\x69\x64\x3D\x77\x78\x62\x62\x39\x32\x65\x63\x34\x62\x36\x36\x66\x35\x36\x35\x36\x64\x26\x73\x65\x63\x72\x65\x74\x3D\x63\x31\x35\x39\x36\x35\x36\x37\x32\x30\x62\x35\x63\x38\x37\x39\x37\x61\x30\x62\x34\x62\x36\x34\x65\x64\x30\x39\x38\x62\x36\x63","\x6F\x7A\x74\x66\x2D\x30\x43\x55\x71\x38\x47\x67\x57\x4B\x70\x41\x39\x66\x36\x37\x56\x70\x68\x54\x36\x4A\x65\x55","\x32\x34\x5F\x59\x5F\x5F\x57\x4A\x38\x5A\x61\x37\x75\x77\x39\x49\x65\x63\x39\x5A\x4C\x74\x46\x4A\x30\x39\x46\x55\x5F\x4E\x71\x62\x33\x78\x69\x49\x67\x47\x6B\x79\x72\x67\x64\x43\x72\x78\x41\x58\x46\x61\x49\x49\x4B\x32\x66\x43\x30\x4E\x63\x34\x64\x48\x48\x5A\x6A\x5F\x6A\x53\x43\x4E\x56\x6C\x73\x57\x42\x71\x68\x77\x44\x65\x49\x59\x6E\x38\x30\x31\x41\x49\x63\x49\x62\x35\x50\x7A\x58\x46\x33\x43\x56\x44\x77\x65\x47\x53\x5F\x38\x66\x76\x4B\x37\x2D\x76\x30\x73\x63\x2D\x41\x5F\x72\x51\x37\x4D\x45\x68\x5F\x5F\x47\x6B\x68\x64\x37\x68\x69\x64\x34\x59\x5F\x78\x71\x6D\x7A\x52\x39\x45\x77\x77\x48\x4C\x4A\x53\x65\x41\x4A\x41\x5A\x58\x47","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x61\x70\x69\x2E\x77\x65\x69\x78\x69\x6E\x2E\x71\x71\x2E\x63\x6F\x6D\x2F\x63\x67\x69\x2D\x62\x69\x6E\x2F\x75\x73\x65\x72\x2F\x69\x6E\x66\x6F\x3F\x61\x63\x63\x65\x73\x73\x5F\x74\x6F\x6B\x65\x6E\x3D","\x26\x6F\x70\x65\x6E\x69\x64\x3D","\x26\x6C\x61\x6E\x67\x3D\x7A\x68\x5F\x43\x4E","\x73\x65\x61\x72\x63\x68","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x28\x5E\x7C\x26\x29","\x3D\x28\x5B\x5E\x26\x5D\x2A\x29\x28\x26\x7C\x24\x29","\x6D\x61\x74\x63\x68","\x73\x75\x62\x73\x74\x72","\x6E\x69\x63\x6B\x4E\x61\x6D\x65","\x61\x76\x61\x74\x61\x72\x55\x72\x6C","\x63\x69\x74\x79","\x61\x64\x64\x72","\x78","\x79","\x74\x65\x78\x74","\x23\x75\x73\x65\x72\x6E\x61\x6D\x65","\x73\x72\x63","\x61\x74\x74\x72","\x23\x74\x6F\x6E\x67\x78\x69\x61\x6E\x67","\x6C\x6E\x67","\x2C","\x6C\x61\x74","\x6C\x6F\x67","\x61\x64\x64\x72\x65\x73\x73\x43\x6F\x6D\x70\x6F\x6E\x65\x6E\x74\x73","\x61\x64\x64\x72\x65\x73\x73","\u5E02","","\x72\x65\x70\x6C\x61\x63\x65","\x23\x6C\x69\x76\x65\x63\x69\x74\x79","\u57CE\u5E02\uFF1A","\x2C\u5730\u5740\uFF1A","\x74\x72\x61\x6E\x73\x6C\x61\x74\x65","\x43\x6F\x6E\x76\x65\x72\x74\x6F\x72","\x6F\x6E","\x72\x65\x6D\x6F\x76\x65\x43\x6C\x61\x73\x73","\x2E\x6D\x61\x70\x74\x61\x62","\x61\x64\x64\x43\x6C\x61\x73\x73","\x6E\x61\x6D\x65","\x62\x61\x69\x64\x75","\x73\x68\x6F\x77","\x23\x62\x6D\x61\x70","\x68\x69\x64\x65","\x23\x61\x6D\x61\x70","\x63\x6C\x69\x63\x6B","\x62\x6D\x61\x70","\x61\x64\x64\x43\x6F\x6E\x74\x72\x6F\x6C","\x63\x65\x6E\x74\x65\x72\x41\x6E\x64\x5A\x6F\x6F\x6D","\x65\x6E\x61\x62\x6C\x65\x53\x63\x72\x6F\x6C\x6C\x57\x68\x65\x65\x6C\x5A\x6F\x6F\x6D","\x63\x6C\x65\x61\x72\x4F\x76\x65\x72\x6C\x61\x79\x73","\x61\x64\x64\x4F\x76\x65\x72\x6C\x61\x79","\x70\x61\x6E\x54\x6F","\x61\x6D\x61\x70","\x33\x44","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x65\x62\x61\x70\x69\x2E\x61\x6D\x61\x70\x2E\x63\x6F\x6D\x2F\x74\x68\x65\x6D\x65\x2F\x76\x31\x2E\x33\x2F\x6D\x61\x72\x6B\x65\x72\x73\x2F\x6E\x2F\x6D\x61\x72\x6B\x5F\x72\x2E\x70\x6E\x67","\x61\x64\x64","\x31\x30\x70\x78","\x41\x4D\x61\x70\x2E\x43\x6F\x6E\x74\x72\x6F\x6C\x42\x61\x72","\x70\x6C\x75\x67\x69\x6E","\x74\x61\x62\x2D\x6C\x69\x6E\x6B\x2D\x61\x63\x74\x69\x76\x65","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x43\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x68\x72\x65\x66","\x67\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x66\x69\x72\x73\x74\x45\x6C\x65\x6D\x65\x6E\x74\x43\x68\x69\x6C\x64","\x31","\x78\x6C\x69\x6E\x6B\x3A\x68\x72\x65\x66","\x74\x69\x74\x6C\x65","\x69\x6E\x6E\x65\x72\x54\x65\x78\x74","\x63\x68\x69\x6C\x64\x72\x65\x6E","\x74\x61\x67\x4E\x61\x6D\x65","\x74\x6F\x4C\x6F\x77\x65\x72\x43\x61\x73\x65","\x69\x6E\x70\x75\x74","\x76\x61\x6C\x75\x65","\x73\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x63\x68\x65\x63\x6B\x65\x64","\x75\x6E\x64\x65\x66\x69\x6E\x65\x64","\x72\x65\x6D\x6F\x76\x65\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x66\x61\x69\x6C","\x64\x61\x74\x61","\x73\x74\x61\x74\x75\x73","\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3A\x3B","\x2F\x76\x69\x64\x65\x6F\x2F","\x73\x65\x74\x64\x65\x76\x69\x63\x65\x53\x65\x72\x69\x61\x6C\x28\x74\x68\x69\x73\x29","\x3C\x6C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x6E\x64\x65\x78\x5F\x69\x74\x65\x6D\x22\x3E\x3C\x61\x20\x63\x6C\x61\x73\x73\x3D\x22\x76\x2D\x63\x65\x6E\x74\x65\x72\x20\x76\x63\x61\x72\x64\x22\x20\x68\x72\x65\x66\x3D\x22","\x22\x20\x69\x64\x3D\x22","\x64\x65\x76\x69\x63\x65\x53\x65\x72\x69\x61\x6C","\x22\x20\x6F\x6E\x63\x6C\x69\x63\x6B\x3D\x22","\x22\x3E\x0A\x09\x09\x09\x20\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x76\x2D\x63\x65\x6E\x74\x65\x72\x20\x68\x22\x3E\x0A\x09\x09\x09\x20\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x65\x6E\x6D\x22\x3E\x0A\x09\x09\x09\x20\x20\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22\x22\x20\x62\x6F\x72\x64\x65\x72\x3D\x22\x30\x22\x20\x2F\x3E\x0A\x09\x09\x09\x3C\x2F\x64\x69\x76\x3E\x0A\x09\x09\x09\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x68\x2D\x63\x65\x6E\x74\x65\x72\x20\x76\x20\x6D\x69\x61\x6F\x73\x68\x75\x22\x3E\x0A\x09\x09\x09\x20\x20\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22\x6E\x61\x6D\x65\x22\x3E","\x64\x65\x76\x69\x63\x65\x4E\x61\x6D\x65","\x3C\x2F\x73\x70\x61\x6E\x3E\x0A\x09\x09\x09\x09\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22","\x7A\x61\x69\x6E","\x7A\x61\x69\x79","\x22\x3E\u72B6\u6001\uFF1A\x3C\x69\x3E","\u4E0D\u5728\u7EBF","\u5728\u7EBF","\x3C\x2F\x69\x3E\x3C\x2F\x73\x70\x61\x6E\x3E\x0A\x09\x09\x09\x09\x3C\x73\x70\x61\x6E\x3E\u8BBE\u5907\u578B\u53F7\uFF1A\x3C\x69\x3E","\x64\x65\x76\x69\x63\x65\x54\x79\x70\x65","\x3C\x2F\x69\x3E\x3C\x2F\x73\x70\x61\x6E\x3E\x0A\x09\x09\x09\x20\x20\x3C\x2F\x64\x69\x76\x3E\x0A\x09\x09\x09\x3C\x2F\x64\x69\x76\x3E\x0A\x09\x09\x09\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x63\x6F\x6E\x66\x6F\x6E\x74\x20\x69\x63\x6F\x6E\x2D\x73\x68\x65\x7A\x68\x69\x22\x3E\x3C\x2F\x69\x3E\x0A\x09\x09\x3C\x2F\x6C\x69\x3E","\x61\x70\x70\x65\x6E\x64","\x23\x76\x69\x64\x65\x6F\x2D\x6C\x69\x73\x74","\x65\x61\x63\x68","\x64\x6F\x6E\x65","\x50\x4F\x53\x54","\x6A\x73\x6F\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6F\x70\x65\x6E\x2E\x79\x73\x37\x2E\x63\x6F\x6D\x2F\x61\x70\x69\x2F\x6C\x61\x70\x70\x2F\x64\x65\x76\x69\x63\x65\x2F\x6C\x69\x73\x74","\x61\x6A\x61\x78","\x69\x64","\x68\x64\x41\x64\x64\x72\x65\x73\x73","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6F\x70\x65\x6E\x2E\x79\x73\x37\x2E\x63\x6F\x6D\x2F\x61\x70\x69\x2F\x6C\x61\x70\x70\x2F\x6C\x69\x76\x65\x2F\x61\x64\x64\x72\x65\x73\x73\x2F\x6C\x69\x6D\x69\x74\x65\x64","\x23\x6D\x79\x50\x6C\x61\x79\x65\x72","\x6D\x79\x50\x6C\x61\x79\x65\x72","\x70\x6C\x61\x79","\x23\x61\x70\x70","\x69\x6F\x73","\x2F","\x69\x6E\x64\x65\x78\x2E\x68\x74\x6D\x6C","\x70\x61\x67\x65\x73\x2F\x76\x69\x64\x65\x6F\x2E\x68\x74\x6D\x6C","\x73\x74\x6F\x70","\x2F\x6D\x61\x70\x2F","\x70\x61\x67\x65\x73\x2F\x6D\x61\x70\x2E\x68\x74\x6D\x6C","\x2E\x76\x69\x65\x77\x2D\x6D\x61\x69\x6E","\x63\x72\x65\x61\x74\x65","\x76\x69\x65\x77\x73","\x23\x76\x69\x65\x77\x2D\x76\x69\x64\x65\x6F","\x23\x76\x69\x65\x77\x2D\x64\x69\x73\x63\x6F\x76\x65\x72","\x23\x76\x69\x65\x77\x2D\x73\x65\x61\x72\x63\x68","\x23\x76\x69\x65\x77\x2D\x70\x61\x67\x65\x73","\x74\x6F\x75\x63\x68\x73\x74\x61\x72\x74","\x63\x61\x72\x64\x2D\x73\x63\x61\x6C\x65","\x2E\x63\x61\x72\x64","\x74\x6F\x75\x63\x68\x65\x6E\x64","\x6D\x6F\x75\x73\x65\x64\x6F\x77\x6E","\x6D\x6F\x75\x73\x65\x75\x70","\x64\x61\x74\x61\x2D\x68\x72\x65\x66","\x6E\x61\x76\x69\x67\x61\x74\x65","\x72\x6F\x75\x74\x65\x72","\x63\x75\x72\x72\x65\x6E\x74","\x2E\x73\x77\x69\x70\x65\x72\x2D\x73\x6C\x69\x64\x65\x20\x61","\x70\x61\x67\x65\x49\x6E\x69\x74","\x63\x6C\x6F\x73\x65\x73\x74","\x74\x61\x72\x67\x65\x74","\x23\x64\x69\x73\x63\x6F\x76\x65\x72\x2D\x73\x77\x69\x70\x65\x72","\x61\x73\x73\x69\x67\x6E","\x23\x64\x69\x73\x63\x6F\x76\x65\x72\x2D\x73\x77\x69\x70\x65\x72\x32","\x23\x64\x69\x73\x63\x6F\x76\x65\x72\x2D\x73\x77\x69\x70\x65\x72\x33","\x70\x61\x67\x65\x3A\x69\x6E\x69\x74","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x73\x69\x6E\x67\x6C\x65\x22\x5D","\x23\x73\x69\x6E\x67\x6C\x65\x2D\x73\x77\x69\x70\x65\x72","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x73\x69\x6E\x67\x6C\x65\x2D\x32\x22\x5D","\x23\x73\x69\x6E\x67\x6C\x65\x2D\x73\x77\x69\x70\x65\x72\x2D\x32","\x70\x74\x72\x3A\x72\x65\x66\x72\x65\x73\x68","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x74\x69\x74\x6C\x65\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x22\x3E","\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22\x74\x69\x74\x6C\x65\x2D\x64\x61\x74\x65\x22\x3E\x54\x75\x65\x73\x64\x61\x79\x20\x31\x39\x20\x4D\x61\x72\x63\x68\x3C\x2F\x73\x70\x61\x6E\x3E","\x3C\x68\x31\x3E\x4A\x75\x73\x74\x20\x4E\x6F\x77\x3C\x2F\x68\x31\x3E","\x3C\x2F\x64\x69\x76\x3E","\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x2F\x73\x69\x6E\x67\x6C\x65\x2F\x22\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x72\x64\x22\x3E","\x3C\x69\x6D\x67\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x72\x64\x2D\x69\x6D\x61\x67\x65\x22\x20\x73\x72\x63\x3D\x22\x69\x6D\x67\x2F\x74\x68\x75\x6D\x62\x2D\x31\x34\x2E\x6A\x70\x67\x22\x20\x61\x6C\x74\x3D\x22\x22\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x72\x64\x2D\x69\x6E\x66\x6F\x73\x22\x3E","\x3C\x68\x32\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x72\x64\x2D\x74\x69\x74\x6C\x65\x22\x3E\x48\x6F\x77\x20\x74\x6F\x20\x47\x65\x74\x20\x59\x6F\x75\x72\x20\x46\x69\x72\x73\x74\x20\x54\x61\x74\x74\x6F\x6F\x20\x52\x69\x67\x68\x74\x3C\x2F\x68\x32\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x72\x64\x2D\x62\x6F\x74\x74\x6F\x6D\x22\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x72\x64\x2D\x61\x75\x74\x68\x6F\x72\x22\x3E","\x3C\x69\x6D\x67\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x72\x64\x2D\x61\x75\x74\x68\x6F\x72\x2D\x69\x6D\x61\x67\x65\x22\x20\x73\x72\x63\x3D\x22\x69\x6D\x67\x2F\x61\x75\x74\x68\x6F\x72\x73\x2F\x61\x75\x74\x68\x6F\x72\x2D\x31\x2E\x6A\x70\x67\x22\x20\x61\x6C\x74\x3D\x22\x22\x3E","\x3C\x64\x69\x76\x3E\x43\x61\x6D\x69\x6C\x6C\x65\x20\x41\x6C\x69\x6E\x65\x3C\x2F\x64\x69\x76\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x61\x72\x64\x2D\x63\x6F\x6D\x6D\x65\x6E\x74\x73\x22\x3E\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x63\x6F\x6E\x20\x69\x6F\x6E\x2D\x69\x6F\x73\x2D\x74\x65\x78\x74\x22\x3E\x3C\x2F\x69\x3E\x33\x3C\x2F\x64\x69\x76\x3E","\x3C\x2F\x61\x3E","\x70\x72\x65\x70\x65\x6E\x64","\x23\x74\x6F\x64\x61\x79\x2D\x63\x6F\x6E\x74\x65\x6E\x74","\x66\x69\x6E\x64","\x2E\x70\x74\x72\x2D\x63\x6F\x6E\x74\x65\x6E\x74","\x70\x74\x72","\x69\x6E\x66\x69\x6E\x69\x74\x65","\x3C\x6C\x69\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x63\x6F\x6E\x74\x65\x6E\x74\x22\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x6D\x65\x64\x69\x61\x22\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22\x69\x6D\x67\x2F\x74\x68\x75\x6D\x62\x2D\x31\x35\x2E\x6A\x70\x67\x22\x20\x77\x69\x64\x74\x68\x3D\x22\x34\x34\x22\x2F\x3E\x3C\x2F\x64\x69\x76\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x69\x6E\x6E\x65\x72\x22\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x73\x75\x62\x74\x69\x74\x6C\x65\x22\x3E\x46\x61\x73\x68\x69\x6F\x6E\x3C\x2F\x64\x69\x76\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x74\x69\x74\x6C\x65\x22\x3E\x41\x72\x63\x68\x65\x72\x79\x20\x61\x74\x20\x74\x68\x65\x20\x32\x30\x32\x34\x20\x4F\x6C\x79\x6D\x70\x69\x63\x20\x47\x61\x6D\x65\x73\x3C\x2F\x64\x69\x76\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x73\x75\x62\x74\x69\x74\x6C\x65\x20\x62\x6F\x74\x74\x6F\x6D\x2D\x73\x75\x62\x74\x69\x74\x6C\x65\x22\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22\x69\x6D\x67\x2F\x61\x75\x74\x68\x6F\x72\x73\x2F\x61\x75\x74\x68\x6F\x72\x2D\x33\x2E\x6A\x70\x67\x22\x3E\x4A\x65\x73\x73\x20\x52\x6F\x78\x61\x6E\x61\x3C\x2F\x64\x69\x76\x3E","\x3C\x2F\x6C\x69\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x6D\x65\x64\x69\x61\x22\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22\x69\x6D\x67\x2F\x74\x68\x75\x6D\x62\x2D\x31\x36\x2E\x6A\x70\x67\x22\x20\x77\x69\x64\x74\x68\x3D\x22\x34\x34\x22\x2F\x3E\x3C\x2F\x64\x69\x76\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x74\x69\x74\x6C\x65\x22\x3E\x4D\x6F\x73\x74\x20\x42\x65\x61\x75\x74\x69\x66\x75\x6C\x20\x42\x65\x61\x63\x68\x20\x6F\x66\x20\x74\x68\x65\x20\x43\x6F\x73\x74\x61\x20\x42\x72\x61\x76\x61\x3C\x2F\x64\x69\x76\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x73\x75\x62\x74\x69\x74\x6C\x65\x20\x62\x6F\x74\x74\x6F\x6D\x2D\x73\x75\x62\x74\x69\x74\x6C\x65\x22\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22\x69\x6D\x67\x2F\x61\x75\x74\x68\x6F\x72\x73\x2F\x61\x75\x74\x68\x6F\x72\x2D\x32\x2E\x6A\x70\x67\x22\x3E\x5A\x6F\x72\x6B\x61\x20\x49\x76\x6B\x61\x3C\x2F\x64\x69\x76\x3E","\x23\x69\x6E\x66\x69\x6E\x69\x74\x65\x2D\x63\x6F\x6E\x74\x65\x6E\x74","\x2E\x69\x6E\x66\x69\x6E\x69\x74\x65\x2D\x73\x63\x72\x6F\x6C\x6C\x2D\x63\x6F\x6E\x74\x65\x6E\x74","\x64\x65\x73\x74\x72\x6F\x79","\x69\x6E\x66\x69\x6E\x69\x74\x65\x53\x63\x72\x6F\x6C\x6C","\x72\x65\x6D\x6F\x76\x65","\x2E\x69\x6E\x66\x69\x6E\x69\x74\x65\x2D\x73\x63\x72\x6F\x6C\x6C\x2D\x70\x72\x65\x6C\x6F\x61\x64\x65\x72","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x73\x6C\x69\x64\x65\x72\x2D\x31\x22\x5D","\x23\x70\x61\x67\x65\x73\x2D\x73\x77\x69\x70\x65\x72","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x73\x6C\x69\x64\x65\x72\x2D\x32\x22\x5D","\x23\x70\x61\x67\x65\x73\x2D\x73\x77\x69\x70\x65\x72\x32","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x73\x6C\x69\x64\x65\x72\x2D\x33\x22\x5D","\x23\x70\x61\x67\x65\x73\x2D\x73\x77\x69\x70\x65\x72\x33","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x73\x6C\x69\x64\x65\x72\x2D\x34\x22\x5D","\x23\x70\x61\x67\x65\x73\x2D\x73\x77\x69\x70\x65\x72\x34","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x70\x75\x6C\x6C\x2D\x74\x6F\x2D\x72\x65\x66\x72\x65\x73\x68\x22\x5D","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x6D\x65\x64\x69\x61\x22\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22\x69\x6D\x67\x2F\x74\x68\x75\x6D\x62\x2D\x32\x35\x2E\x6A\x70\x67\x22\x20\x77\x69\x64\x74\x68\x3D\x22\x34\x34\x22\x2F\x3E\x3C\x2F\x64\x69\x76\x3E","\x30\x78\x36\x64","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x74\x69\x74\x6C\x65\x22\x3E\x54\x68\x65\x20\x42\x65\x73\x74\x20\x44\x69\x65\x74\x20\x66\x6F\x72\x20\x61\x20\x46\x6C\x61\x74\x74\x65\x72\x20\x42\x65\x6C\x6C\x79\x3C\x2F\x64\x69\x76\x3E","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x73\x75\x62\x74\x69\x74\x6C\x65\x20\x62\x6F\x74\x74\x6F\x6D\x2D\x73\x75\x62\x74\x69\x74\x6C\x65\x22\x3E\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x63\x6F\x6E\x20\x69\x6F\x6E\x2D\x6D\x64\x2D\x74\x69\x6D\x65\x22\x3E\x3C\x2F\x69\x3E\x32\x20\x68\x6F\x75\x72\x73\x20\x61\x67\x6F\x3C\x2F\x64\x69\x76\x3E","\x23\x70\x61\x67\x65\x73\x2D\x70\x74\x72\x2D\x6C\x69\x73\x74","\x23\x70\x61\x67\x65\x73\x2D\x70\x74\x72","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x69\x6E\x66\x69\x6E\x69\x74\x65\x2D\x73\x63\x72\x6F\x6C\x6C\x22\x5D","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x74\x65\x6D\x2D\x6D\x65\x64\x69\x61\x22\x3E\x3C\x69\x6D\x67\x20\x73\x72\x63\x3D\x22\x69\x6D\x67\x2F\x74\x68\x75\x6D\x62\x2D\x32\x36\x2E\x6A\x70\x67\x22\x20\x77\x69\x64\x74\x68\x3D\x22\x34\x34\x22\x2F\x3E\x3C\x2F\x64\x69\x76\x3E","\x23\x70\x61\x67\x65\x73\x2D\x69\x6E\x66\x69\x6E\x69\x74\x65\x2D\x73\x63\x72\x6F\x6C\x6C\x2D\x6C\x69\x73\x74","\x23\x70\x61\x67\x65\x73\x2D\x69\x6E\x66\x69\x6E\x69\x74\x65\x2D\x73\x63\x72\x6F\x6C\x6C","\x23\x70\x61\x67\x65\x73\x2D\x69\x6E\x66\x69\x6E\x69\x74\x65\x2D\x73\x63\x72\x6F\x6C\x6C\x20\x2E\x69\x6E\x66\x69\x6E\x69\x74\x65\x2D\x73\x63\x72\x6F\x6C\x6C\x2D\x70\x72\x65\x6C\x6F\x61\x64\x65\x72","\x68\x69\x64\x65\x53\x74\x61\x74\x75\x73","\x70\x61\x67\x65\x3A\x62\x65\x66\x6F\x72\x65\x6F\x75\x74","\x75\x72\x6C","\x64\x65\x74\x61\x69\x6C","\x2F\x73\x69\x6E\x67\x6C\x65\x2F","\x2F\x73\x69\x6E\x67\x6C\x65\x2D\x32\x2F","\x2F\x61\x75\x74\x68\x6F\x72\x2F","\x2F\x63\x6F\x6E\x74\x61\x63\x74\x2F","\x73\x65\x6C\x65\x63\x74\x6F\x72","\x73\x68\x6F\x77\x53\x74\x61\x74\x75\x73","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x61\x75\x74\x68\x6F\x72\x22\x5D","\x2E\x70\x61\x67\x65\x5B\x64\x61\x74\x61\x2D\x6E\x61\x6D\x65\x3D\x22\x63\x6F\x6E\x74\x61\x63\x74\x22\x5D","\x74\x61\x62\x3A\x73\x68\x6F\x77","\x73\x72\x63\x45\x6C\x65\x6D\x65\x6E\x74","\x76\x69\x65\x77\x2D\x64\x69\x73\x63\x6F\x76\x65\x72","\x68\x69\x64\x65\x53\x74\x61\x74\x75\x73\x46\x61\x73\x74","\x2F\x73\x69\x6E\x67\x6C\x65\x2D\x32","\x73\x68\x6F\x77\x53\x74\x61\x74\x75\x73\x46\x61\x73\x74","\x2E\x76\x69\x65\x77","\x74\x61\x62\x3A\x68\x69\x64\x65"];var accessToken=__Ox4f9ba[0x0];var code=GetQueryString(__Ox4f9ba[0x1]);var openidUrl=__Ox4f9ba[0x2]+ code+ __Ox4f9ba[0x3];var tokenUrl=__Ox4f9ba[0x4];var openid=__Ox4f9ba[0x5];var access_token=__Ox4f9ba[0x6];var userinfo=__Ox4f9ba[0x7]+ access_token+ __Ox4f9ba[0x8]+ openid+ __Ox4f9ba[0x9];function GetQueryString(_0x3397x9){var _0x3397xa=window[__Ox4f9ba[0xb]][__Ox4f9ba[0xa]];var _0x3397xb= new RegExp(__Ox4f9ba[0xc]+ _0x3397x9+ __Ox4f9ba[0xd]);var _0x3397xc=_0x3397xa[__Ox4f9ba[0xf]](1)[__Ox4f9ba[0xe]](_0x3397xb);return _0x3397xc?decodeURIComponent(_0x3397xc[0x2]):null}var nickName=GetQueryString(__Ox4f9ba[0x10]);var avatarUrl=GetQueryString(__Ox4f9ba[0x11]);var city=GetQueryString(__Ox4f9ba[0x12]);var addr=GetQueryString(__Ox4f9ba[0x13]);var x=GetQueryString(__Ox4f9ba[0x14]);var y=GetQueryString(__Ox4f9ba[0x15]);if(nickName){$(__Ox4f9ba[0x17])[__Ox4f9ba[0x16]](nickName)};if(avatarUrl){$(__Ox4f9ba[0x1a])[__Ox4f9ba[0x19]](__Ox4f9ba[0x18],avatarUrl)};if(!x||  !y){x= 118.81159973144531,y= 32.321414947509766};var newlocation;BMap[__Ox4f9ba[0x28]][__Ox4f9ba[0x27]]( new BMap.Point(x,y),2,function(_0x3397x14){var _0x3397x15=_0x3397x14[__Ox4f9ba[0x1b]]+ __Ox4f9ba[0x1c]+ _0x3397x14[__Ox4f9ba[0x1d]];newlocation= _0x3397x14;console[__Ox4f9ba[0x1e]](_0x3397x15);searchByPointTx(_0x3397x15,function(_0x3397x14){console[__Ox4f9ba[0x1e]](_0x3397x14);var city=_0x3397x14[__Ox4f9ba[0x1f]][__Ox4f9ba[0x12]];var _0x3397x16=_0x3397x14[__Ox4f9ba[0x20]];$(__Ox4f9ba[0x24])[__Ox4f9ba[0x16]](city[__Ox4f9ba[0x23]](__Ox4f9ba[0x21],__Ox4f9ba[0x22]));alert(__Ox4f9ba[0x25]+ city+ __Ox4f9ba[0x26]+ _0x3397x16)})});function initMap(){$(__Ox4f9ba[0x2b])[__Ox4f9ba[0x33]](function(){$(__Ox4f9ba[0x2b])[__Ox4f9ba[0x2a]](__Ox4f9ba[0x29]);$(this)[__Ox4f9ba[0x2c]](__Ox4f9ba[0x29]);var _0x3397x18=$(this)[__Ox4f9ba[0x19]](__Ox4f9ba[0x2d]);if(_0x3397x18== __Ox4f9ba[0x2e]){$(__Ox4f9ba[0x30])[__Ox4f9ba[0x2f]]();$(__Ox4f9ba[0x32])[__Ox4f9ba[0x31]]()}else {$(__Ox4f9ba[0x32])[__Ox4f9ba[0x2f]]();$(__Ox4f9ba[0x30])[__Ox4f9ba[0x31]]()}});initBmap();initAmap()}function initBmap(){var _0x3397x1a= new BMap.Map(__Ox4f9ba[0x34]);_0x3397x1a[__Ox4f9ba[0x35]]( new BMap.MapTypeControl({mapTypes:[BMAP_NORMAL_MAP,BMAP_HYBRID_MAP]}));_0x3397x1a[__Ox4f9ba[0x36]]( new BMap.Point(newlocation[__Ox4f9ba[0x1b]],newlocation[__Ox4f9ba[0x1d]]),17);_0x3397x1a[__Ox4f9ba[0x37]](true);_0x3397x1a[__Ox4f9ba[0x38]]();var _0x3397x1b= new BMap.Point(newlocation[__Ox4f9ba[0x1b]],newlocation[__Ox4f9ba[0x1d]]);var _0x3397x1c= new BMap.Marker(_0x3397x1b);_0x3397x1a[__Ox4f9ba[0x39]](_0x3397x1c);_0x3397x1a[__Ox4f9ba[0x3a]](_0x3397x1b)}function initAmap(){var _0x3397x1e=[x,y];var _0x3397x1a= new AMap.Map(__Ox4f9ba[0x3b],{resizeEnable:true,rotateEnable:true,pitchEnable:true,center:_0x3397x1e,viewMode:__Ox4f9ba[0x3c],pitch:0,zoom:17});var _0x3397x1f= new AMap.Marker({position:_0x3397x1e,icon:__Ox4f9ba[0x3d]});_0x3397x1a[__Ox4f9ba[0x3e]](_0x3397x1f);var _0x3397x20={showZoomBar:false,showControlButton:true,position:{right:__Ox4f9ba[0x3f],top:__Ox4f9ba[0x3f]}};_0x3397x1a[__Ox4f9ba[0x41]]([__Ox4f9ba[0x40]],function(){var _0x3397x21= new AMap.ControlBar(_0x3397x20);_0x3397x1a[__Ox4f9ba[0x35]](_0x3397x21)})}var selectedTab=document[__Ox4f9ba[0x43]](__Ox4f9ba[0x42])[0x0];function setSymbol(_0x3397x24){var _0x3397x25=_0x3397x24[__Ox4f9ba[0x45]](__Ox4f9ba[0x44]);var _0x3397x26=selectedTab[__Ox4f9ba[0x45]](__Ox4f9ba[0x44]);if(_0x3397x25!= _0x3397x26){var _0x3397x27=selectedTab[__Ox4f9ba[0x46]][__Ox4f9ba[0x46]];var _0x3397x28=_0x3397x27[__Ox4f9ba[0x45]](__Ox4f9ba[0x48])[__Ox4f9ba[0x23]](__Ox4f9ba[0x47],__Ox4f9ba[0x22]);attr(_0x3397x27,__Ox4f9ba[0x48],_0x3397x28);var _0x3397x29=_0x3397x24[__Ox4f9ba[0x46]][__Ox4f9ba[0x46]];var _0x3397x2a=_0x3397x29[__Ox4f9ba[0x45]](__Ox4f9ba[0x48])+ __Ox4f9ba[0x47];attr(_0x3397x29,__Ox4f9ba[0x48],_0x3397x2a);document[__Ox4f9ba[0x49]]= _0x3397x24[__Ox4f9ba[0x4b]][0x1][__Ox4f9ba[0x4a]];selectedTab= _0x3397x24}else {}}function attr(_0x3397x2c,_0x3397x2d,_0x3397x2e){if(_0x3397x2c[__Ox4f9ba[0x4c]]&& _0x3397x2c[__Ox4f9ba[0x4c]][__Ox4f9ba[0x4d]]()== __Ox4f9ba[0x4e]&& _0x3397x2d== __Ox4f9ba[0x4f]){_0x3397x2c[__Ox4f9ba[0x4f]]= _0x3397x2e}else {if(_0x3397x2c[__Ox4f9ba[0x50]]){if(_0x3397x2d== __Ox4f9ba[0x51]&& (_0x3397x2e== __Ox4f9ba[0x22]|| _0x3397x2e== false||  typeof _0x3397x2e== __Ox4f9ba[0x52])){_0x3397x2c[__Ox4f9ba[0x53]](_0x3397x2d)}else {_0x3397x2c[__Ox4f9ba[0x50]](_0x3397x2d,_0x3397x2e)}}}}getDeviceList();function getDeviceList(){$[__Ox4f9ba[0x70]]({type:__Ox4f9ba[0x6d],dataType:__Ox4f9ba[0x6e],url:__Ox4f9ba[0x6f],data:{accessToken:accessToken}})[__Ox4f9ba[0x6c]](function(_0x3397x14){var _0x3397x31=_0x3397x14[__Ox4f9ba[0x55]];$[__Ox4f9ba[0x6b]](_0x3397x31,function(){var _0x3397xa=this[__Ox4f9ba[0x56]]== 0?__Ox4f9ba[0x57]:__Ox4f9ba[0x58];var _0x3397x32=this[__Ox4f9ba[0x56]]== 0?__Ox4f9ba[0x22]:__Ox4f9ba[0x59];var _0x3397x33=__Ox4f9ba[0x5a]+ _0x3397xa+ __Ox4f9ba[0x5b]+ this[__Ox4f9ba[0x5c]]+ __Ox4f9ba[0x5d]+ _0x3397x32+ __Ox4f9ba[0x5e]+ this[__Ox4f9ba[0x5f]]+ __Ox4f9ba[0x60]+ (this[__Ox4f9ba[0x56]]== 0?__Ox4f9ba[0x61]:__Ox4f9ba[0x62])+ __Ox4f9ba[0x63]+ (this[__Ox4f9ba[0x56]]== 0?__Ox4f9ba[0x64]:__Ox4f9ba[0x65])+ __Ox4f9ba[0x66]+ this[__Ox4f9ba[0x67]]+ __Ox4f9ba[0x68];$(__Ox4f9ba[0x6a])[__Ox4f9ba[0x69]](_0x3397x33)})})[__Ox4f9ba[0x54]](function(_0x3397x30){})}var currentUrl;function setdeviceSerial(_0x3397x2c){var _0x3397x36=_0x3397x2c[__Ox4f9ba[0x71]];$[__Ox4f9ba[0x70]]({type:__Ox4f9ba[0x6d],dataType:__Ox4f9ba[0x6e],url:__Ox4f9ba[0x73],data:{accessToken:accessToken,deviceSerial:_0x3397x36,channelNo:1}})[__Ox4f9ba[0x6c]](function(_0x3397x14){currentUrl= _0x3397x14[__Ox4f9ba[0x55]][__Ox4f9ba[0x72]]})}var player;function play(){$(__Ox4f9ba[0x74])[__Ox4f9ba[0x19]](__Ox4f9ba[0x18],currentUrl);player=  new EZUIKit.EZUIPlayer(__Ox4f9ba[0x75]);player[__Ox4f9ba[0x76]]()}var $$=Dom7;var app= new Framework7({'\x72\x6F\x6F\x74':__Ox4f9ba[0x77],'\x74\x68\x65\x6D\x65':__Ox4f9ba[0x78],'\x74\x61\x70\x48\x6F\x6C\x64':!![],'\x76\x69\x65\x77':{'\x73\x74\x61\x63\x6B\x50\x61\x67\x65\x73':!![]},'\x72\x6F\x75\x74\x65\x73':[{'\x70\x61\x74\x68':__Ox4f9ba[0x79],'\x75\x72\x6C':__Ox4f9ba[0x7a]},{'\x70\x61\x74\x68':__Ox4f9ba[0x58],'\x75\x72\x6C':__Ox4f9ba[0x7b],on:{pageBeforeIn:function(_0x3397x3b,_0x3397x3c){},pageAfterIn:function(_0x3397x3b,_0x3397x3c){play()},pageInit:function(_0x3397x3b,_0x3397x3c){},pageBeforeRemove:function(_0x3397x3b,_0x3397x3c){player[__Ox4f9ba[0x7c]]()}}},{'\x70\x61\x74\x68':__Ox4f9ba[0x7d],'\x75\x72\x6C':__Ox4f9ba[0x7e],on:{pageBeforeIn:function(_0x3397x3b,_0x3397x3c){},pageAfterIn:function(_0x3397x3b,_0x3397x3c){initMap()},pageInit:function(_0x3397x3b,_0x3397x3c){},pageBeforeRemove:function(_0x3397x3b,_0x3397x3c){}}}]});var mainView=app[__Ox4f9ba[0x81]][__Ox4f9ba[0x80]](__Ox4f9ba[0x7f]);var categoriesView=app[__Ox4f9ba[0x81]][__Ox4f9ba[0x80]](__Ox4f9ba[0x82]);var discoverView=app[__Ox4f9ba[0x81]][__Ox4f9ba[0x80]](__Ox4f9ba[0x83]);var searchView=app[__Ox4f9ba[0x81]][__Ox4f9ba[0x80]](__Ox4f9ba[0x84]);var pagesView=app[__Ox4f9ba[0x81]][__Ox4f9ba[0x80]](__Ox4f9ba[0x85]);function activeCardTouch(){$$(__Ox4f9ba[0x88])[__Ox4f9ba[0x29]](__Ox4f9ba[0x86],function(_0x3397x43){$$(this)[__Ox4f9ba[0x2c]](__Ox4f9ba[0x87])});$$(__Ox4f9ba[0x88])[__Ox4f9ba[0x29]](__Ox4f9ba[0x89],function(_0x3397x44){$$(this)[__Ox4f9ba[0x2a]](__Ox4f9ba[0x87])});$$(__Ox4f9ba[0x88])[__Ox4f9ba[0x29]](__Ox4f9ba[0x8a],function(){$$(this)[__Ox4f9ba[0x2c]](__Ox4f9ba[0x87])});$$(__Ox4f9ba[0x88])[__Ox4f9ba[0x29]](__Ox4f9ba[0x8b],function(){$$(this)[__Ox4f9ba[0x2a]](__Ox4f9ba[0x87])});$$(__Ox4f9ba[0x90])[__Ox4f9ba[0x29]](__Ox4f9ba[0x33],function(_0x3397x45){app[__Ox4f9ba[0x81]][__Ox4f9ba[0x8f]][__Ox4f9ba[0x8e]][__Ox4f9ba[0x8d]]($$(this)[__Ox4f9ba[0x19]](__Ox4f9ba[0x8c]))})}activeCardTouch();app[__Ox4f9ba[0x29]](__Ox4f9ba[0x91],function(_0x3397x46){activeCardTouch()});var swiperOptions={'\x73\x70\x61\x63\x65\x42\x65\x74\x77\x65\x65\x6E':0xa,'\x74\x6F\x75\x63\x68\x4D\x6F\x76\x65\x53\x74\x6F\x70\x50\x72\x6F\x70\x61\x67\x61\x74\x69\x6F\x6E':![],'\x6F\x6E':{'\x74\x6F\x75\x63\x68\x53\x74\x61\x72\x74':function(_0x3397x48){$$(_0x3397x48[__Ox4f9ba[0x93]][__Ox4f9ba[0x92]](__Ox4f9ba[0x88]))[__Ox4f9ba[0x2c]](__Ox4f9ba[0x87])},'\x74\x6F\x75\x63\x68\x45\x6E\x64':function(_0x3397x49){$$(_0x3397x49[__Ox4f9ba[0x93]][__Ox4f9ba[0x92]](__Ox4f9ba[0x88]))[__Ox4f9ba[0x2a]](__Ox4f9ba[0x87])}}};var discoverSwiper= new Swiper(__Ox4f9ba[0x94],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x140}));var discoverSwiper2= new Swiper(__Ox4f9ba[0x96],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x104}));var discoverSwiper3= new Swiper(__Ox4f9ba[0x97],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x168}));$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0x99],function(_0x3397x4d){var _0x3397x4e= new Swiper(__Ox4f9ba[0x9a],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x118}))});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0x9b],function(_0x3397x4f){var _0x3397x50= new Swiper(__Ox4f9ba[0x9c],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x118}))});$$(__Ox4f9ba[0xb0])[__Ox4f9ba[0x29]](__Ox4f9ba[0x9d],function(_0x3397x51){setTimeout(function(){var _0x3397x52=__Ox4f9ba[0x9e]+ __Ox4f9ba[0x9f]+ __Ox4f9ba[0xa0]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xa2]+ __Ox4f9ba[0xa3]+ __Ox4f9ba[0xa4]+ __Ox4f9ba[0xa5]+ __Ox4f9ba[0xa6]+ __Ox4f9ba[0xa7]+ __Ox4f9ba[0xa8]+ __Ox4f9ba[0xa9]+ __Ox4f9ba[0xaa]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xab]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xac];$$(__Ox4f9ba[0xb0])[__Ox4f9ba[0xaf]](__Ox4f9ba[0xae])[__Ox4f9ba[0xad]](_0x3397x52);activeCardTouch();app[__Ox4f9ba[0xb1]][__Ox4f9ba[0x6c]]()},0x3e8)});var allowInfinite=!![];$$(__Ox4f9ba[0xbf])[__Ox4f9ba[0x29]](__Ox4f9ba[0xb2],function(){if(!allowInfinite){return};allowInfinite=  ![];setTimeout(function(){allowInfinite=  !![];var _0x3397x54=__Ox4f9ba[0xb3]+ __Ox4f9ba[0xa2]+ __Ox4f9ba[0xb4]+ __Ox4f9ba[0xb5]+ __Ox4f9ba[0xb6]+ __Ox4f9ba[0xb7]+ __Ox4f9ba[0xb8]+ __Ox4f9ba[0xb9]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xac]+ __Ox4f9ba[0xba]+ __Ox4f9ba[0xb3]+ __Ox4f9ba[0xa2]+ __Ox4f9ba[0xb4]+ __Ox4f9ba[0xbb]+ __Ox4f9ba[0xb6]+ __Ox4f9ba[0xb7]+ __Ox4f9ba[0xbc]+ __Ox4f9ba[0xbd]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xac]+ __Ox4f9ba[0xba];$$(__Ox4f9ba[0xbe])[__Ox4f9ba[0x69]](_0x3397x54);app[__Ox4f9ba[0xc1]][__Ox4f9ba[0xc0]](__Ox4f9ba[0xbf]);$$(__Ox4f9ba[0xc3])[__Ox4f9ba[0xc2]]()},0x3e8)});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0xc4],function(_0x3397x55){var _0x3397x56= new Swiper(__Ox4f9ba[0xc5],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x140}))});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0xc6],function(_0x3397x57){var _0x3397x58= new Swiper(__Ox4f9ba[0xc7],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x104}))});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0xc8],function(_0x3397x59){var _0x3397x5a= new Swiper(__Ox4f9ba[0xc9],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x168}))});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0xca],function(_0x3397x5b){var _0x3397x5c= new Swiper(__Ox4f9ba[0xcb],Object[__Ox4f9ba[0x95]]({},swiperOptions,{'\x77\x69\x64\x74\x68':0x118}))});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0xcc],function(_0x3397x5d){$$(__Ox4f9ba[0xd2])[__Ox4f9ba[0x29]](__Ox4f9ba[0x9d],function(_0x3397x5d){setTimeout(function(){var _0x3397x5e=__Ox4f9ba[0xb3]+ __Ox4f9ba[0xa2]+ __Ox4f9ba[0xb4]+ __Ox4f9ba[0xcd]+ _0x48bd(__Ox4f9ba[0xce])+ __Ox4f9ba[0xb7]+ __Ox4f9ba[0xcf]+ __Ox4f9ba[0xd0]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xac]+ __Ox4f9ba[0xba];$$(__Ox4f9ba[0xd2])[__Ox4f9ba[0xaf]](__Ox4f9ba[0xd1])[__Ox4f9ba[0xad]](_0x3397x5e);app[__Ox4f9ba[0xb1]][__Ox4f9ba[0x6c]]($$(__Ox4f9ba[0xd2]))},0x3e8)})});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0xd3],function(_0x3397x5f){var _0x3397x60=!![];$$(__Ox4f9ba[0xd6])[__Ox4f9ba[0x29]](__Ox4f9ba[0xb2],function(){if(!_0x3397x60){return};_0x3397x60=  ![];setTimeout(function(){_0x3397x60=  !![];var _0x3397x61=__Ox4f9ba[0xb3]+ __Ox4f9ba[0xa2]+ __Ox4f9ba[0xb4]+ __Ox4f9ba[0xd4]+ __Ox4f9ba[0xb6]+ __Ox4f9ba[0xb7]+ __Ox4f9ba[0xcf]+ __Ox4f9ba[0xd0]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xa1]+ __Ox4f9ba[0xac]+ __Ox4f9ba[0xba];$$(__Ox4f9ba[0xd5])[__Ox4f9ba[0x69]](_0x3397x61);app[__Ox4f9ba[0xc1]][__Ox4f9ba[0xc0]](__Ox4f9ba[0xd6]);$$(__Ox4f9ba[0xd7])[__Ox4f9ba[0xc2]]()},0x320)})});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0x99],function(_0x3397x62,_0x3397x63){parent[__Ox4f9ba[0xd8]]()});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0xd9],__Ox4f9ba[0x99],function(_0x3397x64,_0x3397x65){var _0x3397x66=_0x3397x64[__Ox4f9ba[0xdb]][__Ox4f9ba[0x8e]][__Ox4f9ba[0xda]];if(_0x3397x66!= __Ox4f9ba[0xdc]&& _0x3397x66!= __Ox4f9ba[0xdd]&& _0x3397x66!= __Ox4f9ba[0xde]&& _0x3397x66!= __Ox4f9ba[0xdf]&& app[__Ox4f9ba[0x81]][__Ox4f9ba[0x8f]][__Ox4f9ba[0xe0]]!= __Ox4f9ba[0x83]){parent[__Ox4f9ba[0xe1]]()}});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0x9b],function(_0x3397x67,_0x3397x68){parent[__Ox4f9ba[0xd8]]()});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0xd9],__Ox4f9ba[0x9b],function(_0x3397x69,_0x3397x6a){var _0x3397x6b=_0x3397x69[__Ox4f9ba[0xdb]][__Ox4f9ba[0x8e]][__Ox4f9ba[0xda]];if(_0x3397x6b!= __Ox4f9ba[0xdc]&& _0x3397x6b!= __Ox4f9ba[0xdd]&& _0x3397x6b!= __Ox4f9ba[0xde]&& _0x3397x6b!= __Ox4f9ba[0xdf]&& app[__Ox4f9ba[0x81]][__Ox4f9ba[0x8f]][__Ox4f9ba[0xe0]]!= __Ox4f9ba[0x83]){parent[__Ox4f9ba[0xe1]]()}});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0xe2],function(_0x3397x6c,_0x3397x6d){parent[__Ox4f9ba[0xd8]]()});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0xd9],__Ox4f9ba[0xe2],function(_0x3397x6e,_0x3397x6f){var _0x3397x70=_0x3397x6e[__Ox4f9ba[0xdb]][__Ox4f9ba[0x8e]][__Ox4f9ba[0xda]];if(_0x3397x70!= __Ox4f9ba[0xdc]&& _0x3397x70!= __Ox4f9ba[0xdd]&& _0x3397x70!= __Ox4f9ba[0xde]&& _0x3397x70!= __Ox4f9ba[0xdf]&& app[__Ox4f9ba[0x81]][__Ox4f9ba[0x8f]][__Ox4f9ba[0xe0]]!= __Ox4f9ba[0x83]){parent[__Ox4f9ba[0xe1]]()}});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0x98],__Ox4f9ba[0xe3],function(_0x3397x71,_0x3397x72){parent[__Ox4f9ba[0xd8]]();;});$$(document)[__Ox4f9ba[0x29]](__Ox4f9ba[0xd9],__Ox4f9ba[0xe3],function(_0x3397x73,_0x3397x74){var _0x3397x75=_0x3397x73[__Ox4f9ba[0xdb]][__Ox4f9ba[0x8e]][__Ox4f9ba[0xda]];if(_0x3397x75!= __Ox4f9ba[0xdc]&& _0x3397x75!= __Ox4f9ba[0xdd]&& _0x3397x75!= __Ox4f9ba[0xde]&& _0x3397x75!= __Ox4f9ba[0xdf]&& app[__Ox4f9ba[0x81]][__Ox4f9ba[0x8f]][__Ox4f9ba[0xe0]]!= __Ox4f9ba[0x83]){parent[__Ox4f9ba[0xe1]]()}});$$(__Ox4f9ba[0xea])[__Ox4f9ba[0x29]](__Ox4f9ba[0xe4],function(_0x3397x76){var _0x3397x77=_0x3397x76[__Ox4f9ba[0xe5]][__Ox4f9ba[0x71]];if(_0x3397x77== __Ox4f9ba[0xe6]){parent[__Ox4f9ba[0xe7]]()}else {var _0x3397x78=app[__Ox4f9ba[0x81]][__Ox4f9ba[0x8f]][__Ox4f9ba[0x8e]][__Ox4f9ba[0xda]];if(_0x3397x78== __Ox4f9ba[0xdc]|| _0x3397x78== __Ox4f9ba[0xe8]){parent[__Ox4f9ba[0xe7]]()}else {parent[__Ox4f9ba[0xe9]]()}}});$$(__Ox4f9ba[0xea])[__Ox4f9ba[0x29]](__Ox4f9ba[0xeb],function(_0x3397x79){var _0x3397x7a=_0x3397x79[__Ox4f9ba[0xe5]][__Ox4f9ba[0x71]];if(_0x3397x7a== __Ox4f9ba[0xe6]){parent[__Ox4f9ba[0xe9]]()}else {parent[__Ox4f9ba[0xe7]]()}})
+//docs:http://www.framework7.cn/docs/routes.html
+var accessToken="at.5k5m8rzc4r01thfx5kafjl4e4yl0xnzc-77bh56nxuw-19s53wn-gh1svquqk";
+var code=GetQueryString("code");
+var openidUrl= 'https://api.weixin.qq.com/sns/jscode2session?appid=wxbb92ec4b66f5656d&secret=c159656720b5c8797a0b4b64ed098b6c&js_code='+code+'&grant_type=authorization_code';
+var tokenUrl='https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxbb92ec4b66f5656d&secret=c159656720b5c8797a0b4b64ed098b6c';
+//获取code后，请求以下链接获取access_token
+//access_token: https://api.weixin.qq.com/sns/oauth2/access_token?appid=APPID&secret=SECRET&code=CODE&grant_type=authorization_code
+//或者 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appidAPPID&secret=SECRET
+//拉取用户信息(需scope为 snsapi_userinfo)
+//userinfo: https://api.weixin.qq.com/sns/userinfo?access_token=ACCESS_TOKEN&openid=OPENID&lang=zh_CN
+//或者 https://api.weixin.qq.com/cgi-bin/user/info?access_token=ACCESS_TOKEN&openid=OPENID&lang=zh_CN
+//通过request获取数据
+var openid="oztf-0CUq8GgWKpA9f67VphT6JeU";
+var access_token="24_Y__WJ8Za7uw9Iec9ZLtFJ09FU_Nqb3xiIgGkyrgdCrxAXFaIIK2fC0Nc4dHHZj_jSCNVlsWBqhwDeIYn801AIcIb5PzXF3CVDweGS_8fvK7-v0sc-A_rQ7MEh__Gkhd7hid4Y_xqmzR9EwwHLJSeAJAZXG";
+//获取用户信息(需要认证后才可以获取到数据)
+var userinfo='https://api.weixin.qq.com/cgi-bin/user/info?access_token='+access_token+'&openid='+openid+'&lang=zh_CN';
+function GetQueryString(key)
+{
+     // 获取参数
+     var url = window.location.search;
+     // 正则筛选地址栏
+     var reg = new RegExp("(^|&)" + key + "=([^&]*)(&|$)");
+     // 匹配目标参数
+     var result = url.substr(1).match(reg);
+     //返回参数值
+     return result ? decodeURIComponent(result[2]) : null;
+}
+
+var nickName=GetQueryString("nickName");
+var avatarUrl=GetQueryString("avatarUrl");
+var city=GetQueryString("city");
+var addr=GetQueryString("addr");
+var x=GetQueryString("x");
+var y=GetQueryString("y");
+
+if(nickName){
+    $("#username").text(nickName);
+}
+
+if(avatarUrl){
+    $("#tongxiang").attr("src",avatarUrl);
+}
+if(!x||!y){
+    x=118.81159973144531,y=32.321414947509766
+}
+
+var newlocation;
+BMap.Convertor.translate(new BMap.Point(x,y),2,function(data){
+    var location=data.lng+","+data.lat;
+    newlocation=data;
+    console.log(location);
+    searchByPointTx(location,function(data){
+       console.log(data);
+       var city=data.addressComponents.city;
+       var address=data.address;
+       $("#livecity").text(city.replace("市",""));
+       //alert("城市："+ city+",地址："+address);
+    });
+ }); 
+ function initMap(){
+     $(".maptab").click(function(){
+        $(".maptab").removeClass("on");
+        $(this).addClass("on");
+        var name=$(this).attr("name");
+        if(name=="baidu"){
+            $("#bmap").show();
+            $("#amap").hide();
+        }else{
+            $("#amap").show();
+            $("#bmap").hide();
+        }
+     });
+    initBmap();
+    initAmap();
+ }
+ function initBmap(){
+    var map = new BMap.Map("bmap");    // 创建Map实例
+    map.addControl(new BMap.MapTypeControl({mapTypes:[BMAP_NORMAL_MAP,BMAP_HYBRID_MAP]}));	  
+    map.centerAndZoom(new BMap.Point(newlocation.lng,newlocation.lat),17);
+    map.enableScrollWheelZoom(true);
+    map.clearOverlays(); 
+    var new_point = new BMap.Point(newlocation.lng,newlocation.lat);
+    var marker = new BMap.Marker(new_point);  // 创建标注
+    map.addOverlay(marker);              // 将标注添加到地图中
+    map.panTo(new_point); 
+ }
+
+function initAmap(){
+    var lnglat=[x,y];
+    var map = new AMap.Map("amap", {
+        resizeEnable: true,
+        rotateEnable:true,
+        pitchEnable:true,
+        center: lnglat,
+        viewMode:'3D',
+        pitch:0,
+        expandZoomRange:true,
+        zoom:17,
+        zooms:[3,20]
+    });
+
+    var m1 = new AMap.Marker({
+        position: lnglat,
+        icon: "https://webapi.amap.com/theme/v1.3/markers/n/mark_r.png"
+    });
+    map.add(m1);
+
+    var Options={
+        showZoomBar:false,
+        showControlButton:true,
+        position:{
+          right:'10px',
+          top:'10px'
+        }
+      };
+
+      map.plugin(["AMap.ControlBar"],function(){
+        var controlBar = new AMap.ControlBar(Options)
+        map.addControl(controlBar)
+    });
+}
+
+// 状态栏图标状态切换
+var selectedTab=document.getElementsByClassName("tab-link-active")[0];
+function setSymbol(active){
+  //选中命名规则原名1
+  //删除旧样式
+  var stext=active.getAttribute('href');
+  var text=selectedTab.getAttribute('href');
+  if(stext!=text){
+    //改变图表
+    //取消选中
+    var use=selectedTab.firstElementChild.firstElementChild;
+    var xlink=use.getAttribute('xlink:href').replace("1","");
+    attr(use,'xlink:href',xlink);
+    //选中
+    var suse=active.firstElementChild.firstElementChild;
+    var sxlink=suse.getAttribute('xlink:href')+"1";
+    attr(suse,'xlink:href',sxlink);
+    //标题
+    document.title=active.children[1].innerText;
+    // if(document.title=="农情"){
+    //   var state=active.getAttribute("fistload");
+    //   if(state=="false"){
+    //     initSwiper();
+    //   }
+    //   attr(active,'fistload',"true");
+    // }
+    //重新赋值选中元素
+    selectedTab=active;
+  }else{
+    //重新加载
+  }
+}
+
+function attr(el,attribute, val) {
+if (el.tagName && el.tagName.toLowerCase() == 'input' && attribute == 'value') el.value = val;
+        else if (el.setAttribute) {
+          if (attribute == 'checked' && (val == '' || val == false || typeof val == "undefined")) el.removeAttribute(attribute);
+          else el.setAttribute(attribute, val);
+}
+}
+
+getDeviceList();
+function getDeviceList(){
+  $.ajax({
+      type: "POST",
+      dataType: "json",
+      url: "https://open.ys7.com/api/lapp/device/list",
+      data: { accessToken: accessToken}
+  }).done(function(data){
+    var item=data.data;
+    $.each(item,function(){
+       var url=this.status==0?"javascript:;":"/video/";
+       var click=this.status==0?"":"setdeviceSerial(this)";
+       var li=`<li class="index_item"><a class="v-center vcard" href="`+url+`" id="`+this.deviceSerial+`" onclick="`+click+`">
+             <div class="v-center h">
+             <div class="fenm">
+              <img src="" border="0" />
+            </div>
+            <div class="h-center v miaoshu">
+              <span class="name">`+this.deviceName+`</span>
+                <span class="`+(this.status==0?"zain":"zaiy")+`">状态：<i>`+(this.status==0?"不在线":"在线")+`</i></span>
+                <span>设备型号：<i>`+this.deviceType+`</i></span>
+              </div>
+            </div>
+            <i class="iconfont icon-shezhi"></i>
+        </li>`;
+        $("#video-list").append(li);
+    });
+  }).fail(function(erro){
+
+  });
+}
+
+var currentUrl;
+function setdeviceSerial(el){
+var id=el.id;
+$.ajax({
+    type: "POST",
+    dataType: "json",
+    url: "https://open.ys7.com/api/lapp/live/address/limited",
+    data: { accessToken: accessToken,
+    deviceSerial:id,
+    channelNo:1
+    }, 
+}).done(function(data){
+  currentUrl=data.data.hdAddress;
+});
+}
+
+var player;
+function play(){
+$('#myPlayer').attr("src", currentUrl);
+player = new EZUIKit.EZUIPlayer('myPlayer');
+player.play();
+}
+
+var $$ = Dom7;
+var app = new Framework7({
+'root': "#app",
+'theme': 'ios',
+'tapHold': !! [],
+'view': {
+'stackPages': !! []
+},
+'routes': [{
+'path': '/',
+'url': "index.html"
+},
+{
+'path': "/video/",
+'url': "pages/video.html",
+on: {
+	pageBeforeIn: function (e, page) {
+	},
+	pageAfterIn: function (e, page) {
+		play();
+	},
+	pageInit: function (e, page) {
+
+	},
+	pageBeforeRemove: function (e, page) {
+		player.stop();
+	}
+  }
+},
+{
+'path': "/map/",
+'url': "pages/map.html",
+on: {
+	pageBeforeIn: function (e, page) {
+	},
+	pageAfterIn: function (e, page) { 
+		initMap();
+	},
+	pageInit: function (e, page) {
+
+	},
+	pageBeforeRemove: function (e, page) {
+		
+	}
+  }
+}]
+});
+var mainView = app.views.create(".view-main");
+var categoriesView = app.views.create("#view-video");
+var discoverView = app.views.create("#view-discover");
+var searchView = app.views.create("#view-search");
+var pagesView =app.views.create("#view-pages");
+
+function activeCardTouch() {
+$$(".card").on("touchstart", function(_0x5b31ab) {
+$$(this).addClass("card-scale");
+});
+$$(".card").on("touchend", function(_0x5d33ae) {
+$$(this).removeClass("card-scale");
+});
+$$(".card").on('mousedown', function() {
+$$(this)['addClass']("card-scale");
+});
+$$(".card").on('mouseup', function() {
+$$(this).removeClass("card-scale");
+});
+$$(".swiper-slide a").on("click", function(_0x3f4745) {
+app.views.current.router.navigate($$(this).attr('data-href'));
+});
+}
+activeCardTouch();
+app.on("pageInit", function(_0x10d767) {
+activeCardTouch();
+});
+
+var swiperOptions = {
+'spaceBetween': 0xa,
+'touchMoveStopPropagation': ![],
+'on': {
+'touchStart': function(_0x277f95) {
+	$$(_0x277f95.target.closest('.card')).addClass("card-scale");
+},
+'touchEnd': function(_0x58cacf) {
+	$$(_0x58cacf.target.closest(".card")).removeClass("card-scale");
+}
+}
+};
+var discoverSwiper = new Swiper("#discover-swiper", Object.assign({}, swiperOptions, {
+'width': 0x140
+}));
+var discoverSwiper2 = new Swiper("#discover-swiper2", Object.assign({}, swiperOptions, {
+'width': 0x104
+}));
+var discoverSwiper3 = new Swiper('#discover-swiper3', Object.assign({}, swiperOptions, {
+'width': 0x168
+}));
+$$(document)['on']("page:init", '.page[data-name="single"]', function(_0xede795) {
+var _0x5ef681 = new Swiper("#single-swiper", Object.assign({}, swiperOptions, {
+'width': 0x118
+}));
+});
+$$(document)['on']("page:init",'.page[data-name="single-2"]', function(_0x1d7cda) {
+var _0x510f93 = new Swiper("#single-swiper-2", Object.assign({}, swiperOptions, {
+'width': 0x118
+}));
+});
+$$('.ptr-content').on("ptr:refresh", function(_0x25fd3c) {
+setTimeout(function() {
+var _0x48008b = '<div class="title-container">' + '<span class="title-date">Tuesday 19 March</span>' + '<h1>Just Now</h1>' + "</div>" + '<a href="/single/">' 
++ '<div class="card">' + '<img class="card-image" src="img/thumb-14.jpg" alt="">' + '<div class="card-infos">' 
++ '<h2 class="card-title">How to Get Your First Tattoo Right</h2>' + '<div class="card-bottom">' + '<div class="card-author">' + '<img class="card-author-image" src="img/authors/author-1.jpg" alt="">' 
++ '<div>Camille Aline</div>' + '</div>' +'<div class="card-comments"><i class="icon ion-ios-text"></i>3</div>' + '</div>' 
++ '</div>' + '</div>' + '</a>';
+$$(".ptr-content").find('#today-content').prepend(_0x48008b);
+activeCardTouch();
+app.ptr.done();
+}, 0x3e8);
+});
+var allowInfinite = !! [];
+$$(".infinite-scroll-content").on("infinite", function() {
+if (!allowInfinite) return;
+allowInfinite = ![];
+setTimeout(function() {
+allowInfinite = !! [];
+var _0x2cec87 = "<li>" + '<a href="/single/">' + '<div class="item-content">' + '<div class="item-media"><img src="img/thumb-15.jpg" width="44"/></div>'
+ + '<div class="item-inner">' + '<div class="item-subtitle">Fashion</div>' + '<div class="item-title">Archery at the 2024 Olympic Games</div>' + '<div class="item-subtitle bottom-subtitle"><img src="img/authors/author-3.jpg">Jess Roxana</div>' + '</div>'
+ +'</div>' + '</a>' +'</li>' +'<li>' +'<a href="/single/">' +'<div class="item-content">' +'<div class="item-media"><img src="img/thumb-16.jpg" width="44"/></div>' + '<div class="item-inner">' 
+ + '<div class="item-subtitle">Fashion</div>' + '<div class="item-title">Most Beautiful Beach of the Costa Brava</div>' + '<div class="item-subtitle bottom-subtitle"><img src="img/authors/author-2.jpg">Zorka Ivka</div>' 
+ + '</div>' +'</div>' +'</a>' + '</li>';
+$$("#infinite-content").append(_0x2cec87);
+app.infiniteScroll.destroy('.infinite-scroll-content');
+$$(".infinite-scroll-preloader").remove();
+}, 0x3e8);
+});
+$$(document).on("page:init", '.page[data-name="slider-1"]', function(_0x47a769) {
+var _0x2f3c0a = new Swiper('#pages-swiper', Object.assign({}, swiperOptions, {
+'width': 0x140
+}));
+});
+$$(document).on('page:init', '.page[data-name="slider-2"]', function(_0x4e2853) {
+var _0x470415 = new Swiper("#pages-swiper2", Object.assign({}, swiperOptions, {
+'width': 0x104
+}));
+});
+$$(document).on("page:init",'.page[data-name="slider-3"]', function(_0x1a7936) {
+var _0x1b649f = new Swiper("#pages-swiper3", Object.assign({}, swiperOptions, {
+'width': 0x168
+}));
+});
+$$(document).on("page:init", '.page[data-name="slider-4"]', function(_0x207eed) {
+var _0x4065f7 = new Swiper('#pages-swiper4', Object.assign({}, swiperOptions, {
+'width': 0x118
+}));
+});
+$$(document).on("page:init", '.page[data-name="pull-to-refresh"]', function(_0x175106) {
+$$("#pages-ptr").on("ptr:refresh", function(_0x175106) {
+setTimeout(function() {
+	var _0x1bff79 ='<li>'+ '<a href="/single/">' + '<div class="item-content">' + '<div class="item-media"><img src="img/thumb-25.jpg" width="44"/></div>' + _0x48bd('0x6d') + '<div class="item-subtitle">Fashion</div>' + '<div class="item-title">The Best Diet for a Flatter Belly</div>' 
+	+ '<div class="item-subtitle bottom-subtitle"><i class="icon ion-md-time"></i>2 hours ago</div>' + '</div>' +'</div>' + '</a>' +'</li>';
+	$$('#pages-ptr').find("#pages-ptr-list").prepend(_0x1bff79);
+	app.ptr.done($$("#pages-ptr"));
+}, 0x3e8);
+});
+});
+
+$$(document).on("page:init",'.page[data-name="infinite-scroll"]', function(_0x1af19a) {
+var _0x37812e = !! [];
+$$("#pages-infinite-scroll").on("infinite", function() {
+if (!_0x37812e) return;
+_0x37812e = ![];
+setTimeout(function() {
+	_0x37812e = !! [];
+	var _0x2fc8a8 = '<li>' + '<a href="/single/">'+ '<div class="item-content">' + '<div class="item-media"><img src="img/thumb-26.jpg" width="44"/></div>' 
+	+ '<div class="item-inner">' + '<div class="item-subtitle">Fashion</div>' +'<div class="item-title">The Best Diet for a Flatter Belly</div>' 
+	+ '<div class="item-subtitle bottom-subtitle"><i class="icon ion-md-time"></i>2 hours ago</div>' +'</div>' + '</div>' + '</a>' + '</li>';
+	$$("#pages-infinite-scroll-list").append(_0x2fc8a8);
+	app.infiniteScroll.destroy("#pages-infinite-scroll");
+	$$("#pages-infinite-scroll .infinite-scroll-preloader").remove();
+}, 0x320);
+});
+});
+
+
+$$(document).on("page:init", '.page[data-name="single"]', function(_0x3c1659, _0x4e8288) {
+parent.hideStatus();
+});
+$$(document).on("page:beforeout", '.page[data-name="single"]', function(_0x4b5f9d, _0xfaafb5) {
+var _0x1ffb89 = _0x4b5f9d.detail.router.url;
+if (_0x1ffb89 !="/single/" && _0x1ffb89 != "/single-2/" && _0x1ffb89 !="/author/" && _0x1ffb89 !="/contact/" && app.views.current.selector != "#view-discover") {
+parent.showStatus();
+}
+});
+$$(document).on("page:init",'.page[data-name="single-2"]', function(_0x2738e7, _0x4aa115) {
+parent.hideStatus();
+});
+$$(document).on("page:beforeout", '.page[data-name="single-2"]', function(_0x35a005, _0x37ad99) {
+var _0x3aa1b1 = _0x35a005.detail.router.url;
+if (_0x3aa1b1 != "/single/" && _0x3aa1b1 != "/single-2/" && _0x3aa1b1 != "/author/" && _0x3aa1b1 != "/contact/" && app.views.current.selector != "#view-discover") {
+parent.showStatus();
+}
+});
+$$(document).on("page:init", '.page[data-name="author"]', function(_0x4fff8b, _0x37a567) {
+parent.hideStatus();
+});
+$$(document).on('page:beforeout','.page[data-name="author"]', function(_0x5092e8, _0x2ad787) {
+var _0x43e15b = _0x5092e8.detail.router.url;
+if (_0x43e15b != "/single/" && _0x43e15b !="/single-2/" && _0x43e15b != "/author/" && _0x43e15b != "/contact/" && app.views.current.selector != "#view-discover") {
+parent.showStatus();
+}
+});
+$$(document).on("page:init", '.page[data-name="contact"]', function(_0x1dcbf3, _0x2f668e) {
+parent.hideStatus();;
+});
+$$(document).on('page:beforeout', '.page[data-name="contact"]', function(_0x209184, _0x2596d6) {
+var _0x4d6440 = _0x209184.detail.router.url;
+if (_0x4d6440 != "/single/" && _0x4d6440 != "/single-2/" && _0x4d6440 != "/author/" && _0x4d6440 != "/contact/" && app.views.current.selector != "#view-discover") {
+parent.showStatus();
+}
+});
+$$(".view").on("tab:show", function(_0x15271e) {
+var _0x426de7 = _0x15271e.srcElement.id;
+if (_0x426de7 == "view-discover") {
+parent.hideStatusFast();
+} else {
+var _0x31d83f = app.views.current.router.url;
+if (_0x31d83f == "/single/" || _0x31d83f == '/single-2') {
+	parent.hideStatusFast();
+} else {
+	parent.showStatusFast();
+}
+}
+});
+$$(".view").on("tab:hide", function(_0x8dfda5) {
+var _0x28f58b = _0x8dfda5.srcElement.id;
+if (_0x28f58b == 'view-discover') {
+parent.showStatusFast();
+} else {
+parent.hideStatusFast();
+}
+});
