@@ -1157,7 +1157,7 @@ color:rgb(250, 173, 20);
 }
 /* 天气 END */
 
-/* 高德地图 controlbar START */
+/* 高德地图  START */
 .amap-controlbar {
     transform: scale(1);
     -ms-transform: scale(1);
@@ -1243,4 +1243,4 @@ color:rgb(250, 173, 20);
     top: 38px;
 }
 
-/* 高德地图 controlbar END */
+/* 高德地图  END *
