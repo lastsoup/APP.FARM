@@ -1,5 +1,5 @@
 //docs:http://www.framework7.cn/docs/routes.html
-var accessToken="at.5k5m8rzc4r01thfx5kafjl4e4yl0xnzc-77bh56nxuw-19s53wn-gh1svquqk";
+var accessToken="at.9car0ka09mlsud8tds92ftf2a22weroo-26jf3szf1s-1ge48zo-q0ardbsiq";
 var code=GetQueryString("code");
 var openidUrl= 'https://api.weixin.qq.com/sns/jscode2session?appid=wxbb92ec4b66f5656d&secret=c159656720b5c8797a0b4b64ed098b6c&js_code='+code+'&grant_type=authorization_code';
 var tokenUrl='https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxbb92ec4b66f5656d&secret=c159656720b5c8797a0b4b64ed098b6c';
@@ -104,6 +104,7 @@ function initAmap(){
         icon: "https://webapi.amap.com/theme/v1.3/markers/n/mark_r.png"
     });
     map.add(m1);
+    map.setPointToCenter(lnglat[0],lnglat[1]);
 
     var Options={
         showZoomBar:false,
@@ -161,7 +162,20 @@ if (el.tagName && el.tagName.toLowerCase() == 'input' && attribute == 'value') e
 }
 }
 
-getDeviceList();
+
+function getAccessToken(){
+  $.ajax({
+    type: "POST",
+    dataType: "json",
+    url: "https://open.ys7.com/api/lapp/token/get",
+    data: { appKey:"943e366c0a5042d2911e6b17ba6357ee",appSecret:"47445eedd15b0e2e9b2f3be3852528db"}
+  }).done(function(data){
+     accessToken=data.data.accessToken;
+     getDeviceList();
+  })
+}
+
+getAccessToken();
 function getDeviceList(){
   $.ajax({
       type: "POST",
